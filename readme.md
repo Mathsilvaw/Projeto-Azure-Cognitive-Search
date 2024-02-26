@@ -1,8 +1,6 @@
-# Projeto Análise de Sentimentos com Language Studio
+# Projeto Azure Cognitive Search
 
 ##  INÍCIO
-
-Através deste recurso a Inteligência Artificial irá analisar textos afim de descobrir o sentimento e satisfação do usuário que o escreveu e assim como suas opiniões.
 
 ## 🔨 Passo a passo
 
